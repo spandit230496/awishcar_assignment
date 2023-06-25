@@ -1,0 +1,10 @@
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 10%;
+}
+.nav img{
+    height: 50px;
+    width: 50px;
+}
